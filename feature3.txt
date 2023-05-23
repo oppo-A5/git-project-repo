@@ -1,3 +1,5 @@
 new feature added by dev1 corrected
 
 changes added by dev2 
+
+added changes of dev1
